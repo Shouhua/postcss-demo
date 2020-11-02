@@ -1,0 +1,12 @@
+div {
+  color:red;
+}
+.tab /deep/ .tab__item {
+  padding-left: 12px;
+}
+.name {
+  font-size: 14px;
+}
+#app {
+  background-color: #435068;
+}
